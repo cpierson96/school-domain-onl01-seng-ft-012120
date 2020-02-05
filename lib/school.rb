@@ -8,5 +8,5 @@ end
     @name = name
     @grade = grade 
   end   
-end 
+
 end 
