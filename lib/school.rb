@@ -9,7 +9,7 @@ end
   def add_student(name, grade)
     @school_name = name
     @grade = grade 
-    if {
+    if @roster include #{
   end   
 
 end 
