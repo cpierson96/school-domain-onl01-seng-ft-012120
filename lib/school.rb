@@ -11,5 +11,6 @@ end
     @grade = grade 
     if @roster include?(grade)==false 
   end   
+end 
 
 end 
